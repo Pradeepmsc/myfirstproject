@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "svORDnzwPBTD2dbK5Wd2pmMhuRUtGdJdrsvJK67+22u3t/2Ur48oBLzEIHjnAmpFKNx38UOn5xUDVqLuR764Yg==",
+  "success": true,
+  "projectFilePath": "/root/helloworldApp/myfirstwebapp/myfirstwebapp.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
